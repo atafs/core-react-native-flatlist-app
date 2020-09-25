@@ -1,5 +1,5 @@
 # core-react-native-flatlist-app
-This pet project has a network and a UI layer to display the data retrieved from a get request in a flatlist in a mobile app!!
+This pet project has a network capacity to make HTTP request and a UI layer to display the data retrieved from the endpoints in a flatlist at a mobile app!!
 
 ## Snapshots
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/7454154/94228267-7a90b280-fef4-11ea-8019-6fd13f7dce05.gif)
